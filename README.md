@@ -1,4 +1,4 @@
-# Hi there, I'm Atha! 👋
+# Hi there, I'm Seta! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=AI+%26+Machine+Learning+Enthusiast;Exploring+Deep+Learning+%26+LLMs;Building+Intelligent+Solutions)](https://git.io/typing-svg)
 
