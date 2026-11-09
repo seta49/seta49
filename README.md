@@ -1,17 +1,17 @@
 # Hi there, I'm Seta! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=AI+%26+Machine+Learning+Enthusiast;Exploring+Deep+Learning+%26+LLMs;Building+Intelligent+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=AI+%26+Machine+Learning+Developer;Exploring+Deep+Learning+%26+LLMs;Building+Intelligent+Solutions)](https://git.io/typing-svg)
 
-Saya fokus pada bidang Artificial Intelligence dan Machine Learning. Tertarik mendalami pemodelan data, deep learning, serta implementasi kecerdasan buatan untuk menyelesaikan masalah nyata secara terukur.
+Undergraduate Informatics student focused on Artificial Intelligence and Machine Learning. Passionate about data modeling, deep learning architectures, and applying modern AI systems to solve real-world problems effectively.
 
 ---
 
 ### 🧠 About Me
 
-- 🔬 **Fokus riset/proyek:** Machine Learning modeling, Computer Vision, dan arsitektur LLM.
-- 🌱 **Sedang mendalami:** Fine-tuning model, optimasi pipeline AI, dan deep neural networks.
-- 💬 **Tanya saya tentang:** Alur kerja machine learning, pemrosesan data, atau eksperimen model dengan Python.
-- 📫 **Kontak:** [Email](mailto:athaillahmuhammad48@gmail.com) • [GitHub](https://github.com/seta49)
+- 🔬 **Research & Project Focus:** Machine Learning modeling, Computer Vision, and LLM architectures.
+- 🌱 **Currently Exploring:** Model fine-tuning, AI pipeline optimization, and multi-agent workflows.
+- 💬 **Ask Me About:** Machine learning workflows, data preprocessing, or Python-based experiments.
+- 📬 **Get in Touch:** [LinkedIn](https://www.linkedin.com/in/muhammadathaillah) • [Email](mailto:athaillahmuhammad48@gmail.com) • [GitHub](https://github.com/seta49)
 
 ---
 
